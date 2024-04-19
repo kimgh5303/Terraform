@@ -1,4 +1,4 @@
-# Terraform Code for AWS Infra
+# Terraform Variable Code for AWS Infra
 
 <br>
 
